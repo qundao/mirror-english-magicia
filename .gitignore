@@ -61,3 +61,6 @@ typings/
 .next
 
 docs/.vuepress/github
+docs/.vuepress/dist-github
+temp/
+.DS_store
