@@ -7,7 +7,7 @@ module.exports = {
       }
     ]
   ],
-  base: process.env.GITHUB == 'github' ? '/mirror-english-magicia/' : '/',
+  base: process.env.GITHUB == 'github' ? '/english-magicia/' : '/',
   dest: process.env.GITHUB == 'github' ? 'docs/.vuepress/dist-github' : 'docs/.vuepress/dist',
   title: '语法俱乐部',
   themeConfig: {
